@@ -1,2 +1,7 @@
-[hoge]
-huga = "foo"
+opt1 = "sample.toml"
+opt2 = "option2-val"
+opt3 = ["opt3", "val"]
+opt4 = [0, 1, 2]
+[opt5]
+name = "taro"
+value = 100
